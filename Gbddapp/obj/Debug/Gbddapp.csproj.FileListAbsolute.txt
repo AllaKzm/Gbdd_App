@@ -1,0 +1,12 @@
+C:\Users\PC04\Desktop\isp2119\и\Gbddapp\Gbddapp\bin\Debug\Driver.mdf
+C:\Users\PC04\Desktop\isp2119\и\Gbddapp\Gbddapp\bin\Debug\Driver_log.ldf
+C:\Users\PC04\Desktop\isp2119\и\Gbddapp\Gbddapp\bin\Debug\Gbddapp.exe.config
+C:\Users\PC04\Desktop\isp2119\и\Gbddapp\Gbddapp\bin\Debug\Gbddapp.exe
+C:\Users\PC04\Desktop\isp2119\и\Gbddapp\Gbddapp\bin\Debug\Gbddapp.pdb
+C:\Users\PC04\Desktop\isp2119\и\Gbddapp\Gbddapp\obj\Debug\Gbddapp.csprojAssemblyReference.cache
+C:\Users\PC04\Desktop\isp2119\и\Gbddapp\Gbddapp\obj\Debug\Gbddapp.Form1.resources
+C:\Users\PC04\Desktop\isp2119\и\Gbddapp\Gbddapp\obj\Debug\Gbddapp.Properties.Resources.resources
+C:\Users\PC04\Desktop\isp2119\и\Gbddapp\Gbddapp\obj\Debug\Gbddapp.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\isp2119\и\Gbddapp\Gbddapp\obj\Debug\Gbddapp.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\isp2119\и\Gbddapp\Gbddapp\obj\Debug\Gbddapp.exe
+C:\Users\PC04\Desktop\isp2119\и\Gbddapp\Gbddapp\obj\Debug\Gbddapp.pdb
